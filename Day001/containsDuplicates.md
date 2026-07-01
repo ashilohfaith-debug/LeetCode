@@ -7,4 +7,4 @@ The above line creates a HashSet called `set` in Java, which stores unique integ
 
 Using an `enhanced for loop` (or `for-each loop`), we add the values from array `nums` into the HashSet `set`.
 
-Before adding each value into the HashSet, we check whether the elements has already been added. If it has, we return false. Otherwise, we return true.
+Before adding each value into the HashSet, we check whether the element has already been added. If it has, we return false. Otherwise, we return true.
