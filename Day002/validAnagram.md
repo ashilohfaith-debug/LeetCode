@@ -9,4 +9,4 @@ Using the `Arrays.sort()` function, the characters in the character array are so
 
 Using the `==` operator, the characters of both character arrays are compared consecutively.
 
-A counter `count` is used to count the number of matching characters during the comparison. The counter increments every time the compared characters are the same, and its value is compared with the length of the string. If they are equal, it returns true. Otherwise, it returns false.
+A counter variable `count` is used to count the number of matching characters during the comparison. The counter increments every time the compared characters are the same, and its value is compared with the length of the string. If they are equal, it returns true. Otherwise, it returns false.
