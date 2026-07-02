@@ -2,6 +2,8 @@
 `Easy`
 ## Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
 
+<br/>
+
 `HashSet<Integer> set = new HashSet<>();`
 
 The above line creates a HashSet called `set` in Java, which stores unique integer values.
