@@ -26,6 +26,8 @@ can be replaced by:
 map.putIfAbsent(sortedS, new ArrayList<>());
 ```
 
+Both of the above code snippets produce the same result.
+
 Using the `get()` function, the original string is added to the corresponding ArrayList of its sorted key.
 
 Finally, the `values()` function retrieves all the grouped ArrayLists from the HashMap, and they are returned as a `List<List<String>>`.
