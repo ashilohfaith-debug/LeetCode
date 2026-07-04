@@ -6,7 +6,7 @@
 
 `HashMap<Integer, Integer> map = new HashMap<>();`
 
-The above line creates a HashMap called `map` in Java, which stores unique integer keys and non-unique integer values.
+The above line creates a HashMap called `map` in Java, which stores unique `Integer` keys and non-unique `Integer` values.
 
 Within a for loop, we use the `put()` function to add the values along with their unique keys into the HashMap.
 
