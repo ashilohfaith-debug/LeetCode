@@ -6,7 +6,7 @@
 
 `HashSet<Integer> set = new HashSet<>();`
 
-The above line creates a HashSet called `set` in Java, which stores unique integer values.
+The above line creates a HashSet called `set` in Java, which stores unique `Integer` values.
 
 Using an `enhanced for loop` (or `for-each loop`), we add the values from array `nums` into the HashSet `set`.
 
