@@ -15,7 +15,7 @@ Before writing the code, the following must be kept in mind:
 
 The above line creates an integer array called `nums1`, which stores the final result. The size of the array is the same as that of the input array `nums`.
 
-A variable `prod` is initialized to 1. It stores the product of all non-zero elements in the array. The variable `countZero` is initialized to 0. It keeps track of the number of zeros present in the array.
+A variable `prod` is initialized to 1. It stores the product of all non-zero elements in the array. A variable `countZero` is initialized to 0. It keeps track of the number of zeros present in the array.
 
 Using a for loop, we iterate through each element in the array `nums`. Using an if statement, we check whether the current element is 0. If it is not 0, it is multiplied with `prod`. Otherwise, the variable `countZero` is incremented by 1.
 
